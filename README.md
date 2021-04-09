@@ -19,3 +19,5 @@ JSC270_A4Q2_dataset_countryplot_pos.csv: dataset to plot the pie chart (The prop
 JSC270_A4Q2_dataset_mask.csv: dataset for the mask model in A4Q2
 
 JSC270_A4Q2_dataset_vaccine.csv: dataset for the vaccine model in A4Q2
+
+question_2_proportion.csv: dataset for calculating the proportion of people who supports wearing mask
